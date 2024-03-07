@@ -1,2 +1,8 @@
-print("Hello world"
-)
+This project is a social network that was created in Python 
+
+WE read from nw1_data and nw2_data files and get the information on friend connections
+
+then, based on this friend connection, we will recommend a friend to one of the members that the user selects. 
+
+The system with recommend in this way:
+if 0 is friend with 1 and 2, and 1 and 2 aren't friends with each other, the recommended friend for 2 will be 1 and vice versa
